@@ -1,3 +1,3 @@
-# SO_Proj2
+# SO Sistema de ficheiros 2
 
-Projeto de Sistemas Operativos ano 2021/22
+Segundo projeto da cadeira de Sistemas Operativos de LEIC-A. (Ano 2021/2022)
